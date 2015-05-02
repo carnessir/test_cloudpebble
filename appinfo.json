@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "carnessir",
+    "longName": "julebord",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "julebord",
+    "uuid": "3cd78dd5-5031-4619-b08f-56918279d6fa",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
