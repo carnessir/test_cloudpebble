@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "carnessir",
+    "longName": "blinky",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "blinky",
+    "uuid": "3d6553c3-bde1-4633-a787-ead21618f147",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
